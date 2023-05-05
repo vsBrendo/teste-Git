@@ -30,4 +30,4 @@ cd backend
 
 Brendo Viegas
 
-https://www.linkedin.com/in/wmazoni
+https://www.linkedin.com/in/brendoviegas
